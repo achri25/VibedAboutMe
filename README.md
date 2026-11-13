@@ -6,4 +6,4 @@ The website was developed using Microsoft Copilot and HTML/CSS.
 
 This website will be improved during the course.
 
-My favourite colour is Green.
+My favourite colours are blue and green.
